@@ -17,8 +17,8 @@ Bem-vindo ao **Desafio de 100 Dias de Python**! Neste cronograma você encontrar
 
 - [X] **Dia 1: Introdução ao Python**Escreva seu primeiro programa “Olá, Mundo!” e familiarize-se com o ambiente.
 - [X] **Dia 2: Variáveis, Tipos de Dados e Operadores**Crie variáveis de diferentes tipos e realize operações aritméticas simples.
-- [ ] **Dia 3: Entrada e Saída de Dados**Implemente um programa que receba dados do usuário e imprima mensagem personalizada.
-- [ ] **Dia 4: Estruturas de Controle: Condicionais**Utilize if, elif e else para checar se um número é positivo, negativo ou zero.
+- [X] **Dia 3: Entrada e Saída de Dados**Implemente um programa que receba dados do usuário e imprima mensagem personalizada.
+- [X] **Dia 4: Estruturas de Controle: Condicionais**Utilize if, elif e else para checar se um número é positivo, negativo ou zero.
 - [ ] **Dia 5: Loops: for e while**Crie um loop que imprima uma sequência numérica ou percorra uma lista.
 - [ ] **Dia 6: Listas e Tuplas**Trabalhe com listas e tuplas (adição, remoção, acesso a elementos).
 - [ ] **Dia 7: Dicionários e Conjuntos**Crie um dicionário com dados de contato e explore operações com conjuntos.
